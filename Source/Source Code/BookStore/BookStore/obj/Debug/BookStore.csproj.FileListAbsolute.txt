@@ -1,0 +1,298 @@
+C:\Users\LENOVO\Desktop\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\LENOVO\Desktop\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\LENOVO\Desktop\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\LENOVO\Desktop\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\LENOVO\Desktop\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\LENOVO\Desktop\BookStore\BookStore\obj\Debug\BookStore.Login.resources
+C:\Users\LENOVO\Desktop\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.ChangePass.resources
+C:\Users\LENOVO\Desktop\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Manager.resources
+C:\Users\LENOVO\Desktop\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.AddPublisher.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\BookStore.exe.config
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\BookStore.exe
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\BookStore.pdb
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.AddPublisher.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Manager.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.exe
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.EmpInfo.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.EmpManagement.resources
+D:\Mèo\HQTCSDL\BookStore - Copy\BookStore\bin\Debug\BookStore.exe.config
+D:\Mèo\HQTCSDL\BookStore - Copy\BookStore\bin\Debug\BookStore.exe
+D:\Mèo\HQTCSDL\BookStore - Copy\BookStore\bin\Debug\BookStore.pdb
+D:\Mèo\HQTCSDL\BookStore - Copy\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+D:\Mèo\HQTCSDL\BookStore - Copy\BookStore\obj\Debug\BookStore.PresentationLayer.AddBook.resources
+D:\Mèo\HQTCSDL\BookStore - Copy\BookStore\obj\Debug\BookStore.PresentationLayer.AddPublisher.resources
+D:\Mèo\HQTCSDL\BookStore - Copy\BookStore\obj\Debug\BookStore.PresentationLayer.ChangePass.resources
+D:\Mèo\HQTCSDL\BookStore - Copy\BookStore\obj\Debug\BookStore.PresentationLayer.EmpManagement.resources
+D:\Mèo\HQTCSDL\BookStore - Copy\BookStore\obj\Debug\BookStore.Login.resources
+D:\Mèo\HQTCSDL\BookStore - Copy\BookStore\obj\Debug\BookStore.PresentationLayer.Manager.resources
+D:\Mèo\HQTCSDL\BookStore - Copy\BookStore\obj\Debug\BookStore.PresentationLayer.EmpInfo.resources
+D:\Mèo\HQTCSDL\BookStore - Copy\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+D:\Mèo\HQTCSDL\BookStore - Copy\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+D:\Mèo\HQTCSDL\BookStore - Copy\BookStore\obj\Debug\BookStore.exe
+D:\Mèo\HQTCSDL\BookStore - Copy\BookStore\obj\Debug\BookStore.pdb
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.AddBook.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.EditBook.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Bill.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.InvoiceView.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.PurchaseUC.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Purchases.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Login.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Confirm.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.GoodsInvoice.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.StoreKeeper.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Import.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.OrderDetails.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\EnvDTE.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\stdole.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\Microsoft.MSXML.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.MHome.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Books.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Cashier.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Customers.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Coupons.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Revenue.resources
+D:\Mèo\HQTCSDL\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Analytics.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.AddBook.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.AddPublisher.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Analytics.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Bill.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Books.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Cashier.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Confirm.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Coupons.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Customers.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.EditBook.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.EmpManagement.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.GoodsInvoice.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Import.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.InvoiceView.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Login.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.EmpInfo.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Manager.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.MHome.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.OrderDetails.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Purchases.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.PurchaseUC.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Revenue.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Schedule.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.StoreKeeper.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.exe
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\Mèo\BookStore\BookStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\BookStore.exe.config
+D:\Mèo\BookStore\BookStore\bin\Debug\BookStore.exe
+D:\Mèo\BookStore\BookStore\bin\Debug\BookStore.pdb
+D:\Mèo\BookStore\BookStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\EnvDTE.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\stdole.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\Microsoft.MSXML.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\BookStore\BookStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mèo\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\BookStore.exe.config
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\BookStore.exe
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\BookStore.pdb
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\EnvDTE.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\stdole.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\Microsoft.MSXML.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.AddBook.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.AddPublisher.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Analytics.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Bill.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Books.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Cashier.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Confirm.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Coupons.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Customers.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.EditBook.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.EmpManagement.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.GoodsInvoice.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Import.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.InvoiceView.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Login.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.EmpInfo.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Manager.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.MHome.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.OrderDetails.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Purchases.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.PurchaseUC.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.Revenue.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.PresentationLayer.StoreKeeper.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.exe
+D:\Nhóm 15\Source Code\BookStore\BookStore\obj\Debug\BookStore.pdb
